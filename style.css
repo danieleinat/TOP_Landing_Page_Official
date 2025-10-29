@@ -1,26 +1,34 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .body-top {
   background-color: #1f2937;
+
   text-align: center;
+  margin: 0;
+  padding: 60pxpx;
 }
 
 .body-mid {
   background-color: #ffffff;
   text-align: center;
+  padding: 60px;
 }
 .body-lower {
   background-color: #e5e7eb;
   text-align: center;
+  padding: 60px;
 }
 .footer {
-  background-color: #e5e7eb;
+  background-color: #ffffff;
   text-align: center;
+  padding: 60px;
 }
 .button-call {
   background-color: #1e55c2;
   text-align: center;
+  padding: 30px;
 }
