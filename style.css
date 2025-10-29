@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body-top {
+  background-color: #1f2937;
+  text-align: center;
+}
+
+.body-mid {
+  background-color: #ffffff;
+  text-align: center;
+}
+.body-lower {
+  background-color: #e5e7eb;
+  text-align: center;
+}
+.footer {
+  background-color: #e5e7eb;
+  text-align: center;
+}
+.button-call {
+  background-color: #1e55c2;
+  text-align: center;
+}
