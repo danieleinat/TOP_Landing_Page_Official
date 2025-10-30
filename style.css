@@ -35,7 +35,11 @@ img {
 }
 
 .body-lower {
-  background-color: #e5e7eb;
+  background-color: #e9e5e7;
+  font-weight: 300;
+  color: #1f2937;
+  font-size: 36px;
+
   text-align: center;
   padding: 100px;
   display: flex;
@@ -71,7 +75,7 @@ img {
 button {
   margin: auto;
   color: hsl(0, 0%, 100%);
-  background-color: #1e55c2;
+  background-color:#3882F6
   padding: 5px;
   border-radius: 25px;
   border: hsl(0, 0%, 100%) 3px solid;
@@ -92,5 +96,32 @@ button {
   flex-direction: row;
   justify-content: space-around;
   min-width: fit-content;
-  gap: -200px;
+}
+.body-top h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9f8fa;
+}
+
+.body-top h3 {
+  font-size: 18px;
+  color: #f9faf8;
+}
+.body-top p {
+  font-size: 24px;
+  color: #e5e7eb;
+}
+.body-top button {
+  font-size: 24px;
+  color: #3882F6;
+}
+.body-mid h2{
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+.body-lower h3{
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
 }
