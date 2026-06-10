@@ -1,3 +1,2 @@
 # TOP_Landing_Page_Official
-
-Hello Odin
+Responsive landing page built with HTML & CSS for The Odin Project
